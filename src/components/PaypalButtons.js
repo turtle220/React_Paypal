@@ -5,8 +5,8 @@ import Car from "../assets/img/car.jpg";
 import Spinner from "./Spinner";
 
 const CLIENT = {
-  sandbox:"your sandbox id",
-  production:"your client id"
+  sandbox:"AXqvb-q2kKw3gWsdsFU0cdIv4K4pvbLccaiirgFdj5Dm0PO1z4qRBv7qKS7XDtlIbSPZXbu03GTreIJF",
+  production:"AXqvb-q2kKw3gWsdsFU0cdIv4K4pvbLccaiirgFdj5Dm0PO1z4qRBv7qKS7XDtlIbSPZXbu03GTreIJF"
 };
 
 const CLIENT_ID =
